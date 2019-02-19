@@ -1,4 +1,4 @@
-### My portfolio site.
+My portfolio site.
 
 Miniport by HTML5 UP
 html5up.net | @ajlkn
